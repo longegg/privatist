@@ -1,4 +1,4 @@
 site_name: Privatist
 nav:
-	- Generelt: 'index.md'
-	- Analyser: 'analyser.md'
+    - Generelt: 'index.md'
+    - Analyser: 'analyser.md'
