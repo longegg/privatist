@@ -1,4 +1,4 @@
-# Tekstanalyser
+# Tekstanalyser norsk
 
 ## Analyse av annonsen om "jenteloven" (s. 407)
 
